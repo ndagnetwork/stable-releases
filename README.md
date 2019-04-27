@@ -7,7 +7,8 @@ Ubuntu AMD64 Binary Release: https://github.com/ndagnetwork/stable-releases/blob
 
 Windows X64 Binary Release: https://github.com/ndagnetwork/stable-releases/blob/master/ndagwallet.zip
 ​
-
+Windows X64 V0.1.2(up to 96 threads): https://github.com/ndagnetwork/stable-releases/blob/master/ndagwallet-windows-x64-0.1.2.zip
+​
 Exwallet will be cancelled and a full-node wallet will be adopted to support more RPC functions of the exchange. For example, GetNewAddress, SendCoinTo, and Listtransactions, 
 
 ​
